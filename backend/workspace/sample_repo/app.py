@@ -1,0 +1,1 @@
+print("Product Loaded")\nfrom routes.products import get_products, get_product, create_product, update_product, delete_product
